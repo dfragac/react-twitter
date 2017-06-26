@@ -1,0 +1,5 @@
+node_modules
+build/*.html
+build/*.css
+build/*.js
+src/index_hide.jsx
